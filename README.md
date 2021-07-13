@@ -1,4 +1,4 @@
-# rtl8822bu Linux Driver
+# RTL8822BU Linux Driver
 **Current Version** 5.8.7.4
 **Supported Kernel Up to Linux v5.12.
 **AUR Package** https://aur.archlinux.org/packages/rtl8822bu-dkms/
